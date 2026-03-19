@@ -8,7 +8,7 @@
 
 A gamified study platform that transforms learning into an RPG-like experience. Complete quests, earn XP, compete on leaderboards, and play educational games—all in one immersive interface.
 
-![Study Platform Preview](https://via.placeholder.com/800x400/1a1e30/eaeef7?text=Study+Platform+Preview)
+<img width="1888" height="1868" alt="image" src="https://github.com/user-attachments/assets/06eda49f-6932-4136-97e8-46826bf282bf" />
 
 ##  Features
 
